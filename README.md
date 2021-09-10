@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @bjt445
 - 👀 I’m interested in VideoGames and Software Enginer
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on UE4 Projects
