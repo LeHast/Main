@@ -1,5 +1,5 @@
-- 👀 I’m interested in VideoGames and Software Enginer
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in VideoGames.
+- 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on UE4 Projects
 - 📫 How to reach me bjt445@gmail.com
 
